@@ -1,4 +1,3 @@
-//add modern art code here
 size(600,600);
 
 background(255);
